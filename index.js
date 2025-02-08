@@ -2,14 +2,6 @@
 
 
 
-/*
-Project Name : MALVIN XD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XD
-Support      : wa.me/263714757857
-*/
-
-
 
 
 

@@ -1,8 +1,8 @@
 {
-  "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ɴᴇxᴜs ᴛᴇᴄʜ🪀",
-  "logo": "https://files.catbox.moe/bddvfr.jpg",
-  "keywords": ["MALVIN XD"],
+  "name": "✦SADE✦",
+  "description": "NATHAN🪀",
+  "logo": "https://files.catbox.moe/qj298k.jpg",
+  "keywords": ["SADE"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,19 +16,19 @@
     "MENU_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/bddvfr.jpg"
+      "value": "https://files.catbox.moe/qj298k.jpg"
     }, 
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/ktd1l4.jpg"
+      "value": "https://files.catbox.moe/qj298k.jpg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦MALVIN-XD✦ ACTIVE AND ALIVE⚡"
+      "value": "> ✦SADE IS ACTIVE✦"
     },
     
     "PREFIX": {
@@ -84,26 +84,26 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
+      "value": "*SADE*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Malvin King"
+      "value": "NATHAN"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263714757857"
+      "value": "27633365774"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ᴍᴀʟᴠɪɴ xᴅ✦"
+      "value": "✦SADE✦"
 
       }, 
 
@@ -123,7 +123,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY ✦NEXUS TECH✦*"
+      "value": "*© POWERED BY NATHAN*"
     },
 
       "DELETE_LINKS": {

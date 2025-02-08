@@ -1,5 +1,4 @@
-//MALVIN XD Whatsapp User Bot
-//Created BY Malvin King 
+
 
 var commands = [];
 

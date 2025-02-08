@@ -1,12 +1,12 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
+  "name": "SADE",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Nexus tech inc",
+  "description": "NATHAN",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MALVIN-XD",
-    "stop": "pm2 stop MALVIN-XD",
-    "restart": "pm2 restart MALVIN-XD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SADE",
+    "stop": "pm2 stop SADE",
+    "restart": "pm2 restart SADE"
   },
    "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
